@@ -34,14 +34,14 @@ First, download the files from the [Releases](../../../releases).
    | Region         | Reply URL                                             |
    | :------------- |:----------------------------------------------------- |
    | United States  | https://msmanaged-na.consent.azure-apim.net/redirect  |
-   | Europe         | https://europe-001.consent.azure-apim.net             |
-   | Asia           | https://asia-001.consent.azure-apim.net               |
-   | Australia      | https://australia-001.consent.azure-apim.net          |
-   | India          | https://india-001.consent.azure-apim.net              |
-   | Japan          | https://japan-001.consent.azure-apim.net              |
-   | Canada         | https://canada-001.consent.azure-apim.net             |
-   | Brazil         | https://brazil-001.consent.azure-apim.net             |
-   | United Kingdom | https://uk-001.consent.azure-apim.net                 |
+   | Europe         | https://europe-001.consent.azure-apim.net/redirect    |
+   | Asia           | https://asia-001.consent.azure-apim.net/redirect      |
+   | Australia      | https://australia-001.consent.azure-apim.net/redirect |
+   | India          | https://india-001.consent.azure-apim.net/redirect     |
+   | Japan          | https://japan-001.consent.azure-apim.net/redirect     |
+   | Canada         | https://canada-001.consent.azure-apim.net/redirect    |
+   | Brazil         | https://brazil-001.consent.azure-apim.net/redirect    |
+   | United Kingdom | https://uk-001.consent.azure-apim.net/redirect        |
 
    
 
